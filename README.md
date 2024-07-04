@@ -13,6 +13,6 @@
 <h2>About the project</h2>
 
 This web application allows users to rent cars.
- Users can filter vehicles by fuel type, year or brand, so they can more easily find the vehicle they want.
+ Users can filter cars by fuel type, year or brand, so they can more easily find the car they want.
 
  ![](car.gif)
